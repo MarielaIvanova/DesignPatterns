@@ -1,0 +1,13 @@
+H:\m\MentorMate\DesignPaternsTasks\MentorMate.BankTaskObserverPattern\MentorMate.BankTaskObserverPattern\bin\Debug\netcoreapp3.1\MentorMate.BankTaskObserverPattern.exe
+H:\m\MentorMate\DesignPaternsTasks\MentorMate.BankTaskObserverPattern\MentorMate.BankTaskObserverPattern\bin\Debug\netcoreapp3.1\MentorMate.BankTaskObserverPattern.deps.json
+H:\m\MentorMate\DesignPaternsTasks\MentorMate.BankTaskObserverPattern\MentorMate.BankTaskObserverPattern\bin\Debug\netcoreapp3.1\MentorMate.BankTaskObserverPattern.runtimeconfig.json
+H:\m\MentorMate\DesignPaternsTasks\MentorMate.BankTaskObserverPattern\MentorMate.BankTaskObserverPattern\bin\Debug\netcoreapp3.1\MentorMate.BankTaskObserverPattern.runtimeconfig.dev.json
+H:\m\MentorMate\DesignPaternsTasks\MentorMate.BankTaskObserverPattern\MentorMate.BankTaskObserverPattern\bin\Debug\netcoreapp3.1\MentorMate.BankTaskObserverPattern.dll
+H:\m\MentorMate\DesignPaternsTasks\MentorMate.BankTaskObserverPattern\MentorMate.BankTaskObserverPattern\bin\Debug\netcoreapp3.1\MentorMate.BankTaskObserverPattern.pdb
+H:\m\MentorMate\DesignPaternsTasks\MentorMate.BankTaskObserverPattern\MentorMate.BankTaskObserverPattern\obj\Debug\netcoreapp3.1\MentorMate.BankTaskObserverPattern.csprojAssemblyReference.cache
+H:\m\MentorMate\DesignPaternsTasks\MentorMate.BankTaskObserverPattern\MentorMate.BankTaskObserverPattern\obj\Debug\netcoreapp3.1\MentorMate.BankTaskObserverPattern.AssemblyInfoInputs.cache
+H:\m\MentorMate\DesignPaternsTasks\MentorMate.BankTaskObserverPattern\MentorMate.BankTaskObserverPattern\obj\Debug\netcoreapp3.1\MentorMate.BankTaskObserverPattern.AssemblyInfo.cs
+H:\m\MentorMate\DesignPaternsTasks\MentorMate.BankTaskObserverPattern\MentorMate.BankTaskObserverPattern\obj\Debug\netcoreapp3.1\MentorMate.BankTaskObserverPattern.csproj.CoreCompileInputs.cache
+H:\m\MentorMate\DesignPaternsTasks\MentorMate.BankTaskObserverPattern\MentorMate.BankTaskObserverPattern\obj\Debug\netcoreapp3.1\MentorMate.BankTaskObserverPattern.dll
+H:\m\MentorMate\DesignPaternsTasks\MentorMate.BankTaskObserverPattern\MentorMate.BankTaskObserverPattern\obj\Debug\netcoreapp3.1\MentorMate.BankTaskObserverPattern.pdb
+H:\m\MentorMate\DesignPaternsTasks\MentorMate.BankTaskObserverPattern\MentorMate.BankTaskObserverPattern\obj\Debug\netcoreapp3.1\MentorMate.BankTaskObserverPattern.genruntimeconfig.cache
