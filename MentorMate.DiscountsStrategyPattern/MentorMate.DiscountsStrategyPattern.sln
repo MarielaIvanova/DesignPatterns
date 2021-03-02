@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MentorMate.DiscountsStrategyPattern", "MentorMate.DiscountsStrategyPattern\MentorMate.DiscountsStrategyPattern.csproj", "{7E5BB95E-4790-41CE-A7B1-323F9C7E2880}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E5BB95E-4790-41CE-A7B1-323F9C7E2880}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E5BB95E-4790-41CE-A7B1-323F9C7E2880}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E5BB95E-4790-41CE-A7B1-323F9C7E2880}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E5BB95E-4790-41CE-A7B1-323F9C7E2880}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3754CCBC-404E-48F8-BAA4-FF2473C174C5}
+	EndGlobalSection
+EndGlobal

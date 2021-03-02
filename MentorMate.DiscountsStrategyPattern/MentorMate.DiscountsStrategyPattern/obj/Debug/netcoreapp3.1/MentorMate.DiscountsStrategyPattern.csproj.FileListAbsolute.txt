@@ -1,0 +1,13 @@
+H:\m\MentorMate\DesignPaternsTasks\MentorMate.DiscountsStrategyPattern\MentorMate.DiscountsStrategyPattern\bin\Debug\netcoreapp3.1\MentorMate.DiscountsStrategyPattern.exe
+H:\m\MentorMate\DesignPaternsTasks\MentorMate.DiscountsStrategyPattern\MentorMate.DiscountsStrategyPattern\bin\Debug\netcoreapp3.1\MentorMate.DiscountsStrategyPattern.deps.json
+H:\m\MentorMate\DesignPaternsTasks\MentorMate.DiscountsStrategyPattern\MentorMate.DiscountsStrategyPattern\bin\Debug\netcoreapp3.1\MentorMate.DiscountsStrategyPattern.runtimeconfig.json
+H:\m\MentorMate\DesignPaternsTasks\MentorMate.DiscountsStrategyPattern\MentorMate.DiscountsStrategyPattern\bin\Debug\netcoreapp3.1\MentorMate.DiscountsStrategyPattern.runtimeconfig.dev.json
+H:\m\MentorMate\DesignPaternsTasks\MentorMate.DiscountsStrategyPattern\MentorMate.DiscountsStrategyPattern\bin\Debug\netcoreapp3.1\MentorMate.DiscountsStrategyPattern.dll
+H:\m\MentorMate\DesignPaternsTasks\MentorMate.DiscountsStrategyPattern\MentorMate.DiscountsStrategyPattern\bin\Debug\netcoreapp3.1\MentorMate.DiscountsStrategyPattern.pdb
+H:\m\MentorMate\DesignPaternsTasks\MentorMate.DiscountsStrategyPattern\MentorMate.DiscountsStrategyPattern\obj\Debug\netcoreapp3.1\MentorMate.DiscountsStrategyPattern.csprojAssemblyReference.cache
+H:\m\MentorMate\DesignPaternsTasks\MentorMate.DiscountsStrategyPattern\MentorMate.DiscountsStrategyPattern\obj\Debug\netcoreapp3.1\MentorMate.DiscountsStrategyPattern.AssemblyInfoInputs.cache
+H:\m\MentorMate\DesignPaternsTasks\MentorMate.DiscountsStrategyPattern\MentorMate.DiscountsStrategyPattern\obj\Debug\netcoreapp3.1\MentorMate.DiscountsStrategyPattern.AssemblyInfo.cs
+H:\m\MentorMate\DesignPaternsTasks\MentorMate.DiscountsStrategyPattern\MentorMate.DiscountsStrategyPattern\obj\Debug\netcoreapp3.1\MentorMate.DiscountsStrategyPattern.csproj.CoreCompileInputs.cache
+H:\m\MentorMate\DesignPaternsTasks\MentorMate.DiscountsStrategyPattern\MentorMate.DiscountsStrategyPattern\obj\Debug\netcoreapp3.1\MentorMate.DiscountsStrategyPattern.dll
+H:\m\MentorMate\DesignPaternsTasks\MentorMate.DiscountsStrategyPattern\MentorMate.DiscountsStrategyPattern\obj\Debug\netcoreapp3.1\MentorMate.DiscountsStrategyPattern.pdb
+H:\m\MentorMate\DesignPaternsTasks\MentorMate.DiscountsStrategyPattern\MentorMate.DiscountsStrategyPattern\obj\Debug\netcoreapp3.1\MentorMate.DiscountsStrategyPattern.genruntimeconfig.cache
