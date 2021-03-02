@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MentorMate.AddFunctionalityDecoratorPattern", "MentorMate.AddFunctionalityDecoratorPattern\MentorMate.AddFunctionalityDecoratorPattern.csproj", "{13D9097C-AF7D-499C-AE6B-6350A2CF53A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13D9097C-AF7D-499C-AE6B-6350A2CF53A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13D9097C-AF7D-499C-AE6B-6350A2CF53A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13D9097C-AF7D-499C-AE6B-6350A2CF53A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13D9097C-AF7D-499C-AE6B-6350A2CF53A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A4DDC5D-5FCF-4F73-BCB9-EBEF467C4FE7}
+	EndGlobalSection
+EndGlobal
